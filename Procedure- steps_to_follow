@@ -1,0 +1,10 @@
+# Procedure to run the code
+
+1. Run the "Model_updated.ipynb" file.
+2. Update the locations for the real and fake data folders in the code. (G-Drive link for the data set: https://drive.google.com/drive/folders/1o2h-dJZY5DUUOp2XkaH_58BjGuXDabdx?usp=drive_link)
+3. This should take some time to run since there is lot of data and epochs.
+4. After execution, "model_final.h5" file should be created in your respective working directory.
+5. Use the model file path in the "Updated cod for predition final.ipynb" file.
+6. This should give us the input prompt to give the image path along with generic inputs.
+7. Output will be given in text and voice format.
+8. You can use "flask_app.py" for UI.
